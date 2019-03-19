@@ -1,3 +1,1 @@
-if (!('Notification' in window)) {
-  console.log('This browser does not support notification');
-}
+{ "username":"GM碎碎念", "content":"https://tw.beanfun.com/maplestory/BullentinList.aspx?cate=65" }
